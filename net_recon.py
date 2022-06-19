@@ -1,8 +1,5 @@
-# Start of the Program
+#!/usr/bin/python3
 
-my_name = "Rahul Ramesh R00207989"
-bold_my_name = "\033[1m" + my_name + "\033[0"
-print(bold_my_name)
 
 # Importing the necessary modules
 import datetime
